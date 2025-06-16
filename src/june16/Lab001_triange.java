@@ -12,7 +12,7 @@ public class Lab001_triange {
         if(side1==side2&& side1==side3)
 
         System.out.println("the triangle is equilateral");
-        else if (side1==side2 || side1==side3 || side3==side3)
+        else if (side1==side2 || side1==side3 || side2==side3)
 
         System.out.println("the triangle is isoscales");
         else
