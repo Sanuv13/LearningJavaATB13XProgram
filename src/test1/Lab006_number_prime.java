@@ -1,5 +1,5 @@
 package test1;
-public class Lab006_primenumber {
+public class Lab006_number_prime {
     //Write a program to find prime numbers between 1 to 100 using loops.
     public static void main(String[] args) {
         int i;
