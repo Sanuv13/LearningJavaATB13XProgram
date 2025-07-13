@@ -1,6 +1,6 @@
-package july_11_linked_list;
+package july_11_array_list;
 import java.util.ArrayList;
-import java.util.List;
+
 public class lab001_array_list {
     public static void main(String[] args) {
         ArrayList arraylist = new ArrayList();
